@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: b613a80f5de7c7d41ab09223599af37c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7898960875998175931
+    second: Shamac_0
+  - first:
+      213: 362630175967540754
+    second: Shamac_1
+  - first:
+      213: -7230272418540933660
+    second: Shamac_2
+  - first:
+      213: -8179974843128631000
+    second: Shamac_3
+  - first:
+      213: 3577380270996865820
+    second: Shamac_4
+  - first:
+      213: 7687518365759050134
+    second: Shamac_5
+  - first:
+      213: -3709615286352424221
+    second: Shamac_6
+  - first:
+      213: -366702947671024131
+    second: Shamac_7
+  - first:
+      213: 8823439846766223350
+    second: Shamac_8
+  - first:
+      213: 3800976585426804410
+    second: Shamac_9
+  - first:
+      213: -2817430225239986552
+    second: Shamac_10
+  - first:
+      213: -1127261505995699961
+    second: Shamac_11
+  - first:
+      213: -1297265905797185264
+    second: Shamac_12
+  - first:
+      213: -3975743795794308177
+    second: Shamac_13
+  - first:
+      213: -5770116750855162952
+    second: Shamac_14
+  - first:
+      213: 8461699769126418509
+    second: Shamac_15
+  - first:
+      213: 2873681896756690668
+    second: Shamac_16
+  - first:
+      213: -8986593205788266260
+    second: Shamac_17
+  - first:
+      213: -2512135627812751218
+    second: Shamac_18
+  - first:
+      213: -636712768157722981
+    second: Shamac_19
+  - first:
+      213: -4709425311158412469
+    second: Shamac_20
+  - first:
+      213: 7412206652499907375
+    second: Shamac_21
+  - first:
+      213: 8530721461429918604
+    second: Shamac_22
+  - first:
+      213: -8424782140595574471
+    second: Shamac_23
+  - first:
+      213: 7649656502813362625
+    second: Shamac_24
+  - first:
+      213: 6750183122113365767
+    second: Shamac_25
+  - first:
+      213: -6257019254840569697
+    second: Shamac_26
+  - first:
+      213: -9115930582326960106
+    second: Shamac_27
+  - first:
+      213: -8481075387503071553
+    second: Shamac_28
+  - first:
+      213: 8025483915851638894
+    second: Shamac_29
+  - first:
+      213: -2918127721325838546
+    second: Shamac_30
+  - first:
+      213: -577381393618506060
+    second: Shamac_31
+  - first:
+      213: -2094655399545593086
+    second: Shamac_32
+  - first:
+      213: 2602087628235897542
+    second: Shamac_33
+  - first:
+      213: -3087604264407932169
+    second: Shamac_34
+  - first:
+      213: -4517688415940700200
+    second: Shamac_35
+  - first:
+      213: 2736607154796636060
+    second: Shamac_36
+  - first:
+      213: -7361334279578096242
+    second: Shamac_37
+  - first:
+      213: 7314876977856470049
+    second: Shamac_38
+  - first:
+      213: -6955126804247725282
+    second: Shamac_39
+  - first:
+      213: -7707882132061363342
+    second: Shamac_40
+  - first:
+      213: 788096851791907649
+    second: Shamac_41
+  - first:
+      213: 3565942671091128592
+    second: Shamac_42
+  - first:
+      213: 2297716085196560393
+    second: Shamac_43
+  - first:
+      213: 8274097565462567360
+    second: Shamac_44
+  - first:
+      213: -8178752847000572813
+    second: Shamac_45
+  - first:
+      213: 9027217008233016269
+    second: Shamac_46
+  - first:
+      213: -8692506485593158691
+    second: Shamac_47
+  - first:
+      213: 90714467726729422
+    second: Shamac_48
+  - first:
+      213: -7570392317810152489
+    second: Shamac_49
+  - first:
+      213: -8393781624540561138
+    second: Shamac_50
+  - first:
+      213: 1108732114723927299
+    second: Shamac_51
+  - first:
+      213: 7937667196164366556
+    second: Shamac_52
+  - first:
+      213: -675963227317719941
+    second: Shamac_53
+  - first:
+      213: -5827519090956325629
+    second: Shamac_54
+  - first:
+      213: 2514507262768384505
+    second: Shamac_55
+  - first:
+      213: -3260387124069735299
+    second: Shamac_56
+  - first:
+      213: -7200865947722511014
+    second: Shamac_57
+  - first:
+      213: -1441515568587262975
+    second: Shamac_58
+  - first:
+      213: 1547801732426089247
+    second: Shamac_59
+  - first:
+      213: 2054872538756784507
+    second: Shamac_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shamac_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb26494f01fbe9d60800000000000000
+      internalID: 7898960875998175931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shamac_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216f1674932580500800000000000000
+      internalID: 362630175967540754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shamac_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed209ffa89e8ab90800000000000000
+      internalID: -7230272418540933660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shamac_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821bfa33834ea7e80800000000000000
+      internalID: -8179974843128631000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shamac_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 507
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c134247176865a130800000000000000
+      internalID: 3577380270996865820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shamac_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6911c53393d8faa60800000000000000
+      internalID: 7687518365759050134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shamac_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2da9b2d8cc48cc0800000000000000
+      internalID: -3709615286352424221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shamac_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfddaf9ac9539eaf0800000000000000
+      internalID: -366702947671024131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shamac_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff1783cac7237a70800000000000000
+      internalID: 8823439846766223350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shamac_9
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe11f5e018cfb430800000000000000
+      internalID: 3800976585426804410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
